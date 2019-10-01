@@ -1,0 +1,14 @@
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\win10-x64\extract.exe
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\win10-x64\extract.deps.json
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\win10-x64\extract.runtimeconfig.json
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\win10-x64\extract.runtimeconfig.dev.json
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\win10-x64\extract.dll
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\win10-x64\extract.pdb
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\win10-x64\extract.csprojAssemblyReference.cache
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\win10-x64\extract.csproj.CoreCompileInputs.cache
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\win10-x64\extract.AssemblyInfoInputs.cache
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\win10-x64\extract.AssemblyInfo.cs
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\win10-x64\extract.dll
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\win10-x64\extract.pdb

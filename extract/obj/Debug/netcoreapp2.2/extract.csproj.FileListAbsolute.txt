@@ -1,0 +1,11 @@
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\extract.deps.json
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\extract.runtimeconfig.json
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\extract.runtimeconfig.dev.json
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\extract.dll
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\extract.csprojAssemblyReference.cache
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\extract.csproj.CoreCompileInputs.cache
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\extract.AssemblyInfoInputs.cache
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\extract.AssemblyInfo.cs
+C:\Projects\Tools\Extract\extract\bin\Debug\netcoreapp2.2\extract.pdb
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\extract.dll
+C:\Projects\Tools\Extract\extract\obj\Debug\netcoreapp2.2\extract.pdb
